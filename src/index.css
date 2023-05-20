@@ -1,0 +1,16 @@
+*{
+  margin: 0px;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.word{
+  position: absolute;
+  transition: all 1s;
+}
+
+.App{
+  height:160vh;
+  background: radial-gradient(red, silver)
+}
+
